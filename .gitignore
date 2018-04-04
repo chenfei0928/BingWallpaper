@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+*.suo
+*.user
+_ReSharper*/
+*.ReSharper
+*.patch
+/packages
+*.ide/
+*.tmp_proj
+*_wpftmp.csproj
+project.lock.json
